@@ -1,0 +1,27 @@
+{
+  "name": "glue-angular",
+  "version": "1.0.0",
+  "description": "Glue package to scaffold angular applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluejs/glue-angular.git"
+  },
+  "keywords": [
+    "gluejs",
+    "glue",
+    "task",
+    "runner",
+    "scaffold",
+    "angular"
+  ],
+  "author": "Fábio Luciano <fabio@naoimporta.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gluejs/glue-angular/issues"
+  },
+  "homepage": "https://github.com/gluejs/glue-angular#readme"
+}
